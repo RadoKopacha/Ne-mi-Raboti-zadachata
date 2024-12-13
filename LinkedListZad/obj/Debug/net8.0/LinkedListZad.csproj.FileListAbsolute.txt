@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\bin\Debug\net8.0\LinkedListZad.exe
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\bin\Debug\net8.0\LinkedListZad.deps.json
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\bin\Debug\net8.0\LinkedListZad.runtimeconfig.json
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\bin\Debug\net8.0\LinkedListZad.dll
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\bin\Debug\net8.0\LinkedListZad.pdb
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\obj\Debug\net8.0\LinkedListZad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\obj\Debug\net8.0\LinkedListZad.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\obj\Debug\net8.0\LinkedListZad.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\obj\Debug\net8.0\LinkedListZad.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\obj\Debug\net8.0\LinkedListZad.dll
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\obj\Debug\net8.0\refint\LinkedListZad.dll
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\obj\Debug\net8.0\LinkedListZad.pdb
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\obj\Debug\net8.0\LinkedListZad.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\LinkedListZad\obj\Debug\net8.0\ref\LinkedListZad.dll

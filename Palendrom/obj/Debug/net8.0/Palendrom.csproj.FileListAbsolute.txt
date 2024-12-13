@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\bin\Debug\net8.0\Palendrom.exe
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\bin\Debug\net8.0\Palendrom.deps.json
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\bin\Debug\net8.0\Palendrom.runtimeconfig.json
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\bin\Debug\net8.0\Palendrom.dll
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\bin\Debug\net8.0\Palendrom.pdb
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\obj\Debug\net8.0\Palendrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\obj\Debug\net8.0\Palendrom.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\obj\Debug\net8.0\Palendrom.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\obj\Debug\net8.0\Palendrom.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\obj\Debug\net8.0\Palendrom.dll
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\obj\Debug\net8.0\refint\Palendrom.dll
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\obj\Debug\net8.0\Palendrom.pdb
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\obj\Debug\net8.0\Palendrom.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Palendrom\obj\Debug\net8.0\ref\Palendrom.dll

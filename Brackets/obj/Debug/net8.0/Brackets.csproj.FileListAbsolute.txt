@@ -1,0 +1,14 @@
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\bin\Debug\net8.0\Brackets.exe
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\bin\Debug\net8.0\Brackets.deps.json
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\bin\Debug\net8.0\Brackets.runtimeconfig.json
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\bin\Debug\net8.0\Brackets.dll
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\bin\Debug\net8.0\Brackets.pdb
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\obj\Debug\net8.0\Brackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\obj\Debug\net8.0\Brackets.AssemblyInfoInputs.cache
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\obj\Debug\net8.0\Brackets.AssemblyInfo.cs
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\obj\Debug\net8.0\Brackets.csproj.CoreCompileInputs.cache
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\obj\Debug\net8.0\Brackets.dll
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\obj\Debug\net8.0\refint\Brackets.dll
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\obj\Debug\net8.0\Brackets.pdb
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\obj\Debug\net8.0\Brackets.genruntimeconfig.cache
+C:\Users\1212-1\Documents\Radoslav 10a\Stack\Brackets\obj\Debug\net8.0\ref\Brackets.dll
